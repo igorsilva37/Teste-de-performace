@@ -1,0 +1,26 @@
+2021-07-07 18:49:55,242 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-07-07 18:49:55,355 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2021-07-07 18:49:55,388 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2021-07-07 18:49:55,438 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2021-07-07 18:49:55,438 INFO o.a.j.JMeter: Version 5.4.1
+2021-07-07 18:49:55,438 INFO o.a.j.JMeter: java.version=1.8.0_291
+2021-07-07 18:49:55,438 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) Client VM
+2021-07-07 18:49:55,438 INFO o.a.j.JMeter: os.name=Windows 10
+2021-07-07 18:49:55,438 INFO o.a.j.JMeter: os.arch=x86
+2021-07-07 18:49:55,438 INFO o.a.j.JMeter: os.version=10.0
+2021-07-07 18:49:55,439 INFO o.a.j.JMeter: file.encoding=Cp1252
+2021-07-07 18:49:55,439 INFO o.a.j.JMeter: java.awt.headless=null
+2021-07-07 18:49:55,439 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-07-07 18:49:55,439 INFO o.a.j.JMeter: Available Processors =4
+2021-07-07 18:49:55,481 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-07-07 18:49:55,482 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-07-07 18:49:55,482 INFO o.a.j.JMeter: JMeterHome=C:\Jmeter
+2021-07-07 18:49:55,482 INFO o.a.j.JMeter: user.dir  =C:\Jmeter\bin
+2021-07-07 18:49:55,482 INFO o.a.j.JMeter: PWD       =C:\Jmeter\bin
+2021-07-07 18:49:55,497 INFO o.a.j.JMeter: IP: 192.168.100.40 Name: Igor-Silva FullName: Igor-Silva
+2021-07-07 18:49:57,073 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2021-07-07 18:49:59,075 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2021-07-07 18:50:03,136 WARN o.j.r.PluginManager: Found JAR conflict: C:\Jmeter\lib\jmeter-plugins-cmn-jmeter-0.6.jar and C:\Jmeter\lib\jmeter-plugins-cmn-jmeter-0.4.jar
+2021-07-07 18:50:03,138 WARN o.j.r.PluginManager: Found JAR conflict: C:\Jmeter\lib\ext\jmeter-plugins-manager-1.6.jar and C:\Jmeter\lib\ext\jmeter-plugins-manager-0.20.jar
+2021-07-07 18:50:10,450 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-casutg=2.9, jpgc-plugins-manager=0.20, jmeter-core=5.4.1, jmeter-ftp=5.4.1, jmeter-http=5.4.1, jmeter-jdbc=5.4.1, jmeter-jms=5.4.1, jmeter-junit=5.4.1, jmeter-java=5.4.1, jmeter-ldap=5.4.1, jmeter-mail=5.4.1, jmeter-mongodb=5.4.1, jmeter-native=5.4.1, jmeter-tcp=5.4.1, jmeter-components=5.4.1]
+2021-07-07 18:50:10,452 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
